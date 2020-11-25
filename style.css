@@ -7,17 +7,17 @@ div {
   background-clip: content-box;
 }
 #first {
-  margin: 0;
+  margin: -3px;
   padding: 10px;
 }
 #second {
-  margin: 0px;
+  margin: -3px;
   margin-top: 55px;
   padding: 32px 65px;
 }
 #third {
-  margin: 5px 0;
-  padding: 20px 20px 40px;
+  margin: 8px -3px;
+  padding: 20px 20px 42px;
 }
 #fourth {
   margin: 98px 0;
